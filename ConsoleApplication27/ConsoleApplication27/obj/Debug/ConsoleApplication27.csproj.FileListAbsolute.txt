@@ -1,0 +1,6 @@
+D:\C#\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+D:\C#\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
+D:\C#\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
+D:\C#\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+D:\C#\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb
+D:\C#\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.csprojResolveAssemblyReference.cache
